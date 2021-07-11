@@ -1,4 +1,4 @@
-package com.rohan.reactivespring.fluxandmonoplayground;
+package com.rohan.reactivespring.fluxmonodemo;
 
 import org.junit.jupiter.api.Test;
 import reactor.core.publisher.Flux;
