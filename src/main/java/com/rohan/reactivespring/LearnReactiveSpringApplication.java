@@ -1,4 +1,4 @@
-package com.rohan.reactivespring.learnreactivespring;
+package com.rohan.reactivespring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

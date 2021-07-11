@@ -1,4 +1,4 @@
-package com.rohan.reactivespring.learnreactivespring;
+package com.rohan.reactivespring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
